@@ -1,6 +1,6 @@
 .bg-image {
   position: relative;
-  background: linear-gradient(rgba(8, 8, 8, 0.3), rgba(8, 8, 8, 0.3)), url('https://hd.wallpaperswide.com/thumbs/delicious_pizza-t2.jpg');
+  background: linear-gradient(rgba(8, 8, 8, 0.3), rgba(8, 8, 8, 0.3)), url('https://hd.wallpaperswide.com/thumbs/homemade_vegetarian_pizza-t1.jpg');
   min-height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -18,7 +18,7 @@
 .header-title {
   text-transform: uppercase;
   letter-spacing: 16px;
-  color: rgb(250, 255, 254);
+  color: #fff;
   font-size: 80px;
   margin-bottom: 32px;
 }
